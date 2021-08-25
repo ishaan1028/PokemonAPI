@@ -84,7 +84,7 @@ img {
 
 .header p {
   padding-left: 70px;
-  filter: drop-shadow(2px 4px 2px rgb(117, 116, 116));
+  filter: drop-shadow(2px 3px rgb(117, 116, 116));
 }
 
 @keyframes fadein {
